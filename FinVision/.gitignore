@@ -46,3 +46,4 @@ app.*.map.json
 
 .venv
 __pycache__
+ModelAPI/product_recommender_models/similarity_matrix.npy
